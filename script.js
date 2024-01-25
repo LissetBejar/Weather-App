@@ -1,5 +1,5 @@
 const apiKey = "244e0d185652b557fc9a4a4cc6f5407f";
-const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
+const apiUrl = "https://open-weather13.p.rapidapi.com/city/landon";
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
