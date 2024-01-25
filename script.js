@@ -1,5 +1,5 @@
 const apiKey = "1de75c7130mshf7cab5dd74ad043p1ff9fcjsn5aea57fb28e1";
-const apiUrl = "https://open-weather13.p.rapidapi.com/city/landon";
+const apiUrl = "open-weather13.p.rapidapi.com";
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
